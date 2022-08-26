@@ -1,0 +1,114 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    background-color: rgb(255, 255, 255);
+  }
+  .row {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  }
+  #col1 {
+    background-color: blueviolet;
+    float: left;
+    border: 5px solid white;
+    height: 40px;
+  }
+  #col2 {
+    background-color: rgb(207, 123, 123);
+    float: left;
+    border: 5px solid white;
+    min-height: 600px;
+    min-height: 80px;
+    justify-content: left;
+  }
+  #col3 {
+    background-color: chartreuse;
+    float: left;
+    border: 5px solid white;
+    min-height: 50px;
+  }
+  #col4 {
+    background-color: rgb(255, 0, 0);
+    float: left;
+    border: 5px solid white;
+    min-height: 160px;
+  }
+  #col5 {
+    background-color: blue;
+    float: left;
+    border: 5px solid white;
+    height: 300px;
+  
+  }
+  #col6 {
+    background-color: rgb(251, 255, 0);
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col7 {
+    background-color: rgb(224, 224, 206);
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  
+  #col8 {
+    background-color: rgb(29, 207, 109);
+    float: left;
+    border: 5px solid white;
+    min-height: 160px;
+  }
+  #col9 {
+    background-color: rgb(20, 228, 243);
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col10 {
+    background-color: rgb(21, 63, 248);
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col11 {
+    background-color: rgb(235, 37, 169);
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col12 {
+    background-color: rgb(202, 59, 126);
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col13 {
+    background-color: rgb(194, 110, 0);
+    float: left;
+    border: 5px solid white;
+    min-height: 160px;
+  }
+  #col14 {
+    background-color: rgb(15, 104, 12);
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col15 {
+    background-color: rgb(112, 53, 53);
+    float: left;
+    border: 5px solid white;
+    min-height: 80px;
+  }
+  #col16 {
+    background-color: rgb(89, 95, 83);
+    float: left;
+    border: 5px solid white;
+    min-height: 50px;
+  }
+
+
+  

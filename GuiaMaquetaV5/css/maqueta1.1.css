@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(255, 255, 255);
+}
+.row{
+    background-color: blue;
+}
+#col1{
+background-color: blueviolet;
+}
+#col2{
+background-color: brown;
+}
+#col3{
+background-color: chartreuse;
+}
